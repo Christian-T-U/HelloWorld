@@ -1,3 +1,4 @@
+[![Build C++](https://github.com/Christian-T-U/HelloWorld/actions/workflows/main.yml/badge.svg)](https://github.com/Christian-T-U/HelloWorld/actions/workflows/main.yml)
 name: Build C++
 
 on:
